@@ -56,7 +56,7 @@ function App() {
     <Header />
     <main>
       <section className="hero" aria-labelledby="hero-title">
-        <img className="hero-image" src="/images/nocturne-hero.png" alt="Graphite superbike in the Nocturne Moto studio" fetchPriority="high" />
+        <img className="hero-image" src="/images/nocturne-hero.webp" alt="Graphite superbike in the Nocturne Moto studio" fetchPriority="high" />
         <div className="hero-shadow" />
         <div className="hero-copy">
           <span className="kicker">INDEPENDENT MOTORCYCLE HOUSE / NYC</span>
